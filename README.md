@@ -118,15 +118,6 @@ Overall, the analysis revealed clear differences in regional pricing and custome
 
 ---
 
-## 🗂️ Project Files
-| File | Description |
-|------|--------------|
-| `BMW_Sales_Analysis.xlsx` | Raw and cleaned dataset |
-| `BMW_Sales_Dashboard.pbix` | Power BI dashboard file |
-| `BMW_Sales_Report.pdf` | Exported summary of visuals and insights |
-
----
-
 ## 🌟 Conclusion
 This project demonstrates how data analytics tools like **Excel** and **Power BI** can be used to explore real-world datasets, uncover insights, and build compelling visual reports. It reflects my ability to move from raw data to actionable intelligence — a key skill for any business or data-driven organization.
 
