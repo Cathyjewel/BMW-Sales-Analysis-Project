@@ -1,4 +1,7 @@
 # 🚗 BMW Sales Analysis Dashboard
+
+![Image](https://github.com/user-attachments/assets/20e0ea8e-1ada-42c8-9711-8960c4908972)[](url)
+
 ### 📊 Overview
 This project analyzes **BMW’s global sales performance,2010-2022** to uncover **market trends, pricing patterns, and customer preferences** across regions. Using **Microsoft Excel** and **Power BI**, I cleaned, transformed, and visualized the dataset to generate insights that can guide strategic decisions and business growth.
 
